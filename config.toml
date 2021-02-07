@@ -1,0 +1,4 @@
+baseURL = "https://happy-musicvuuy.vercel.app"
+languageCode = "en-us"
+title = "Song Sheet Music With Letters"
+theme = "hugo-theme-minos"
